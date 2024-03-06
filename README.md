@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kplaystart
+- 👋 Hi, I’m @kplaystart
 - 👀 I’m interested in developing web pages and mobile apps
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Instagram @kplaystart
